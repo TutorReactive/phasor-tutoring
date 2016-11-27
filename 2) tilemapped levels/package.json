@@ -1,0 +1,16 @@
+{
+  "name": "phaser",
+  "version": "1.0.0",
+  "description": "A html 5 game tutorial",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connor Meehan",
+  "license": "ISC"
+}
